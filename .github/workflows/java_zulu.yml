@@ -5,7 +5,8 @@ name: java_zulu
 # separate terms of service, privacy policy, and support
 # documentation.
 
-on: workflow_dispatch
+on: 
+  workflow_dispatch
   push:
     branches:
       - main
