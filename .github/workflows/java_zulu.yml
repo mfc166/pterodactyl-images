@@ -30,6 +30,7 @@ jobs:
           - 7
           - 8
           - 11
+          - 17
 
     steps:
       - name: Git checkout for Github repository workspace
