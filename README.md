@@ -4,12 +4,12 @@
 
 ## Зачем это всё?
 
-Плагины, используемые на моих серверах плохо подерживают дефолтную Open JRE. На просторах нашёл образы [Alex](https://github.com/Software-Noob). 
+Плагины, используемые на моих серверах плохо поддерживают дефолтную Open JRE. На просторах нашёл образы [Alex](https://github.com/Software-Noob). 
 Там была требуемая Azul Zulu, но не было 7 версии - решил не беспокоить автора и сделать самостоятельно. Позже выяснилось, что в остальных образах отсутствует компонент webp, 
 из-за чего карта в Dynmap сохраняет элементы в формате jpg, что тоже не очень. Так появились остальные пакеты.
 
 
-Жополнительные образы для панели можете найти в репозиториях: [Alex](https://github.com/Software-Noob/pterodactyl-images), [Parkervcp](https://github.com/parkervcp/images), [Matthewpi](https://github.com/matthewpi/images) и [Yolks](https://github.com/pterodactyl/yolks).
+Дополнительные образы для панели можете найти в репозиториях: [Alex](https://github.com/Software-Noob/pterodactyl-images), [Parkervcp](https://github.com/parkervcp/images), [Matthewpi](https://github.com/matthewpi/images) и [Yolks](https://github.com/pterodactyl/yolks).
 
 ## Как добавить образ
 
